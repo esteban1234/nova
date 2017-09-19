@@ -1,0 +1,2 @@
+ ErrorDocument 403 http://comercializadoranova.com/index.php
+ Options -Indexes
