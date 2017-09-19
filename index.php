@@ -57,19 +57,19 @@
 
                             <div id="slide-content" style="display: none;">
                                 <div id="slide-content-0">
-                                    <h3 class="myshadow">Comercio al por mayor de equipo y material eléctrico</h3> <br>
+                                    <h3 class="myshadow">Comercio de equipo y material eléctrico</h3> <br>
                                     <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> -->
                                     <p class="sub-text"> <a href="#" class="btn btn-color"><i class="fa fa-plus" aria-hidden="true"></i> INFO</a></p>
                                 </div>
 
                                 <div id="slide-content-1">
-                                    <h3 class="myshadow">Comercio al por menor de teléfonos, de otros aparatos de comunicación, refaccciones y accesorios</h3><br>
+                                    <h3 class="myshadow">Comercio de teléfonos, aparatos de comunicación, refaccciones y accesorios</h3><br>
                                     <!-- <p>Lorem Ipsum Dolor</p> -->
                                     <p class="sub-text"> <a href="#" class="btn btn-color"><i class="fa fa-plus" aria-hidden="true"></i> INFO</a></p>
                                 </div>
 
                                 <div id="slide-content-2">
-                                    <h3 class="myshadow">Comercio al por mayor de equipo y accesorios de cómputo</h3><br>
+                                    <h3 class="myshadow">Comercio de equipo y accesorios de cómputo</h3><br>
                                     <!-- <p>Lorem Ipsum Dolor</p> -->
                                     <p class="sub-text"> <a href="#" class="btn btn-color"><i class="fa fa-plus" aria-hidden="true"></i> INFO</a></p>
                                 </div>
