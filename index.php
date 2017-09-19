@@ -57,19 +57,19 @@
 
                             <div id="slide-content" style="display: none;">
                                 <div id="slide-content-0">
-                                    <h3 class="myshadow">Comercio al por mayor de equipo y material eléctrico</h3> <br>
+                                    <h3 class="myshadow">Comercio de equipo y material eléctrico</h3> <br>
                                     <!-- <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p> -->
                                     <p class="sub-text"> <a href="#" class="btn btn-color"><i class="fa fa-plus" aria-hidden="true"></i> INFO</a></p>
                                 </div>
 
                                 <div id="slide-content-1">
-                                    <h3 class="myshadow">Comercio al por menor de teléfonos, de otros aparatos de comunicación, refaccciones y accesorios</h3><br>
+                                    <h3 class="myshadow">Comercio de teléfonos, aparatos de comunicación, refaccciones y accesorios</h3><br>
                                     <!-- <p>Lorem Ipsum Dolor</p> -->
                                     <p class="sub-text"> <a href="#" class="btn btn-color"><i class="fa fa-plus" aria-hidden="true"></i> INFO</a></p>
                                 </div>
 
                                 <div id="slide-content-2">
-                                    <h3 class="myshadow">Comercio al por mayor de equipo y accesorios de cómputo</h3><br>
+                                    <h3 class="myshadow">Comercio de equipo y accesorios de cómputo</h3><br>
                                     <!-- <p>Lorem Ipsum Dolor</p> -->
                                     <p class="sub-text"> <a href="#" class="btn btn-color"><i class="fa fa-plus" aria-hidden="true"></i> INFO</a></p>
                                 </div>
@@ -139,9 +139,6 @@
             <div class="tit">
                 <h3 class="text-center ">CONDUCTORES</h3>
             </div>
-            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
           <div class="col-md-3 uno">
             <div class="imagen2">
@@ -150,9 +147,6 @@
             <div class="tit">
                 <h3 class="text-center ">APAGADORES</h3>
             </div>
-            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
           <div class="col-md-3 uno">
             <div class="imagen3">
@@ -161,9 +155,6 @@
             <div class="tit">
                 <h3 class="text-center ">NO-BREAK</h3>
             </div>
-            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
           <div class="col-md-3 uno">
             <div class="imagen4">
@@ -172,13 +163,10 @@
             <div class="tit">
                 <h3 class="text-center ">TRANSFORMADORES</h3>
             </div>
-            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
         </div>
         <div style="text-align: center; margin-top: 5%; color: #fff;">
-          <a class="btn btn-default btn-outline btn-lg" data-scroll href="#CONTACTO">CONTACTANOS</a>
+          <a class="btn btn-default btn-outline btn-lg" data-scroll href="vistas/contacto.php">CONTACTANOS</a>
         </div>
       </div>
     </div>
