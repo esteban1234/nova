@@ -101,9 +101,7 @@
                 </span>
             </div>
             <h2 class="text-center text-muted">EXPERIENCIA</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p class="text-center">Desde hace ya muchos años prestando Servicios Eléctricos a las Empresas y representando las Mejores Marcas del Mundo participando en el mercado.</p>
           </div>
           <div class="col-md-4">
             <div class="iconos">
@@ -113,9 +111,7 @@
                 </span>
             </div>
             <h2 class="text-center text-muted">MERCADOS</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p class="text-center">Nuestros productos y servicios abaracan una amplica variedad de mercados como Minería, Generación, Distribución, Transmisión, Empresas de Ingeniería, Contratistas, Petrolera, etc.</p>
           </div>
           <div class="col-md-4">
             <div class="iconos">
@@ -125,10 +121,64 @@
                 </span>
             </div>
             <h2 class="text-center text-muted">PRODUCTOS</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+            <p class="text-center">Junto a nuestra amplia gama de productos, entregamos servicios que cumplen con los más altos estándares de calidad.</p>
+        </div>
+      </div>
+    </div>
+    </div>
+
+    <div class="section seccion2">
+      <div class="container">
+        <div class="row">
+        <h1 class="text-center" style="color: #fff; font-family: 'Oleo Script', cursive;">Productos destacados</h1>
+        <p class="text-center" style="color: #fff; font-family: 'Cambay', sans-serif;">de nuestra amplia gama de productos de ámbito eléctrico</p> <br><br>
+          <div class="col-md-3 uno">
+            <div class="imagen1">
+                
+            </div>
+            <div class="tit">
+                <h3 class="text-center ">CONDUCTORES</h3>
+            </div>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
+          <div class="col-md-3 uno">
+            <div class="imagen2">
+                
+            </div>
+            <div class="tit">
+                <h3 class="text-center ">APAGADORES</h3>
+            </div>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
+          </div>
+          <div class="col-md-3 uno">
+            <div class="imagen3">
+                
+            </div>
+            <div class="tit">
+                <h3 class="text-center ">NO-BREAK</h3>
+            </div>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
+          </div>
+          <div class="col-md-3 uno">
+            <div class="imagen4">
+                
+            </div>
+            <div class="tit">
+                <h3 class="text-center ">TRANSFORMADORES</h3>
+            </div>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
+          </div>
+        </div>
+        <div style="text-align: center; margin-top: 5%; color: #fff;">
+          <a class="btn btn-default btn-outline btn-lg" data-scroll href="#CONTACTO">CONTACTANOS</a>
         </div>
       </div>
     </div>
