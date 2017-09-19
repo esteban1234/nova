@@ -23,117 +23,15 @@
         </figure>
     </header>
 <div class="seccion4">
-  <p class="textc">Instalaciones eléctricas en construcciones</p>
-  <p class="text-center">Contamos con una gran variedad de productos eléctricos, acontinuación se muestran algunos.</p> <br><br>
+  <p class="textc">Instalaciones eléctricas en construcciones</p> <br><br>
+  
   <div class="container">
-        <div class="row">
-          <div class="col-md-3 uno">
-            <div class="imagenu">
-                
-            </div>
-            <div class="tit">
-                <h3 class="text-center ">Cable Uso Rudo</h3>
-            </div>
-          </div>
-          <div class="col-md-3 uno">
-            <div class="imagen5">
-                
-            </div>
-            <div class="tit">
-                <h3 class="text-center ">Cable Sumergible</h3>
-            </div>
-          </div>
-          <div class="col-md-3 uno">
-            <div class="imagen6">
-                
-            </div>
-            <div class="tit">
-                <h3 class="text-center ">Cable THW</h3>
-            </div>
-          </div>
-          <div class="col-md-3 uno">
-            <div class="imagen7">
-                
-            </div>
+        
+      <p class="text-center">COMERCIALIZADORA DE INNOVACIONES NOVA S.A de C.V. Cuenta con una vasta experiencia, construyendo distintos tipos de obras eléctricas. Durante este tiempo ha formado una gran cantidad de mano de obra calificada y especializada, además de un sólido equipo multidisciplinario que apoya a nuestros clientes en todas las etapas de construcción, de obras de instalaciones eléctricas. <br><br>
 
-            <div class="tit">
-                <h3 class="text-center ">Cables</h3>
-            </div>
-          </div>
-        </div> <br><br>
+      Mantenemos  programas de capacitación constante y modernización de nuestros sistemas constructivos, garantizando altos estándares de calidad y seguridad. Destacando como ejes centrales la excelencia de la mano de obra, el respeto por las normas vigentes, el compromiso con la calidad, la mejora continua y, el apoyo a nuestros clientes durante todo el proceso constructivo de una obra eléctrica.
 
-
-        <div class="row">
-          <div class="col-md-3 uno">
-            <div class="imagen8">
-                
-            </div>
-            <div class="tit">
-                <h3 class="text-center ">Tubo Conduit Grueso</h3>
-            </div>
-          </div>
-          <div class="col-md-3 uno">
-            <div class="imagen9">
-                
-            </div>
-            <div class="tit">
-                <h3 class="text-center ">Codo Conduit Grueso</h3>
-            </div>
-          </div>
-          <div class="col-md-3 uno">
-            <div class="imagen10">
-                
-            </div>
-            <div class="tit">
-                <h3 class="text-center ">Cople Conduit Grueso</h3>
-            </div>
-          </div>
-          <div class="col-md-3 uno">
-            <div class="imagen11">
-                
-            </div>
-
-            <div class="tit">
-                <h3 class="text-center ">Tubo Conduit Mufero</h3>
-            </div>
-          </div>
-        </div> <br><br>
-
-        <div class="row">
-          <div class="col-md-3 uno">
-            <div class="imagen1">
-                
-            </div>
-            <div class="tit">
-                <h3 class="text-center ">CONDUCTORES</h3>
-            </div>
-          </div>
-          <div class="col-md-3 uno">
-            <div class="imagen2">
-                
-            </div>
-            <div class="tit">
-                <h3 class="text-center ">APAGADORES</h3>
-            </div>
-          </div>
-          <div class="col-md-3 uno">
-            <div class="imagen3">
-                
-            </div>
-            <div class="tit">
-                <h3 class="text-center ">NO-BREAK</h3>
-            </div>
-          </div>
-          <div class="col-md-3 uno">
-            <div class="imagen4">
-                
-            </div>
-
-            <div class="tit">
-                <h3 class="text-center ">TRANSFORMADORES</h3>
-            </div>
-          </div>
-        </div>
+ .</p>
 
         <div style="text-align: center; margin-top: 5%; color: #000;">
           <a class="btn btn-default btn-outline btn-lg" data-scroll href="contacto.php">CONTACTANOS</a>

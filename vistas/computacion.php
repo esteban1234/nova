@@ -24,40 +24,40 @@
     </header>
 <div class="seccion4">
   <p class="textc">Comercio de equipo y accesorios de cómputo</p>
-  <p class="text-center">Contamos con una gran variedad de productos eléctricos, acontinuación se muestran algunos.</p> <br><br>
+  <p class="text-center">Contamos con una gran variedad de productos de computación, acontinuación se muestran algunos.</p> <br><br>
   <div class="container">
         <div class="row">
           <div class="col-md-3 uno">
-            <div class="imagenu">
+            <div class="imagen24">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Cable Uso Rudo</h3>
+                <h3 class="text-center ">Lap-Tops</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen5">
+            <div class="imagen25">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Cable Sumergible</h3>
+                <h3 class="text-center ">PC</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen6">
+            <div class="imagen26">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Cable THW</h3>
+                <h3 class="text-center ">Note-book</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen7">
+            <div class="imagen27">
                 
             </div>
 
             <div class="tit">
-                <h3 class="text-center ">Cables</h3>
+                <h3 class="text-center ">Tablets</h3>
             </div>
           </div>
         </div> <br><br>
@@ -65,72 +65,72 @@
 
         <div class="row">
           <div class="col-md-3 uno">
-            <div class="imagen8">
+            <div class="imagen28">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Tubo Conduit Grueso</h3>
+                <h3 class="text-center ">Cargadores</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen9">
+            <div class="imagen29">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Codo Conduit Grueso</h3>
+                <h3 class="text-center ">Displays</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen10">
+            <div class="imagen30">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Cople Conduit Grueso</h3>
+                <h3 class="text-center ">Teclados</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen11">
+            <div class="imagen31">
                 
             </div>
 
             <div class="tit">
-                <h3 class="text-center ">Tubo Conduit Mufero</h3>
+                <h3 class="text-center ">Mouse</h3>
             </div>
           </div>
         </div> <br><br>
 
         <div class="row">
           <div class="col-md-3 uno">
-            <div class="imagen1">
+            <div class="imagen32">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">CONDUCTORES</h3>
+                <h3 class="text-center ">Bocinas</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen2">
+            <div class="imagen33">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">APAGADORES</h3>
+                <h3 class="text-center ">Discos Duros</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen3">
+            <div class="imagen34">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">NO-BREAK</h3>
+                <h3 class="text-center ">RAM</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen4">
+            <div class="imagen35">
                 
             </div>
 
             <div class="tit">
-                <h3 class="text-center ">TRANSFORMADORES</h3>
+                <h3 class="text-center ">Procesadores</h3>
             </div>
           </div>
         </div>

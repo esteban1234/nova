@@ -65,72 +65,72 @@
 
         <div class="row">
           <div class="col-md-3 uno">
-            <div class="imagen8">
+            <div class="imagen16">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Tubo Conduit Grueso</h3>
+                <h3 class="text-center ">Radios</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen9">
+            <div class="imagen17">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Codo Conduit Grueso</h3>
+                <h3 class="text-center ">Displays</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen10">
+            <div class="imagen18">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Cople Conduit Grueso</h3>
+                <h3 class="text-center ">Audiculares</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen11">
+            <div class="imagen19">
                 
             </div>
 
             <div class="tit">
-                <h3 class="text-center ">Tubo Conduit Mufero</h3>
+                <h3 class="text-center ">Cargadores</h3>
             </div>
           </div>
         </div> <br><br>
 
         <div class="row">
           <div class="col-md-3 uno">
-            <div class="imagen1">
+            <div class="imagen20">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">CONDUCTORES</h3>
+                <h3 class="text-center ">Fundas</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen2">
+            <div class="imagen21">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">APAGADORES</h3>
+                <h3 class="text-center ">Micas</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen3">
+            <div class="imagen22">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">NO-BREAK</h3>
+                <h3 class="text-center ">Carcasas</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen4">
+            <div class="imagen23">
                 
             </div>
 
             <div class="tit">
-                <h3 class="text-center ">TRANSFORMADORES</h3>
+                <h3 class="text-center ">Altavoces</h3>
             </div>
           </div>
         </div>

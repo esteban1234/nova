@@ -364,37 +364,185 @@ footer{
     overflow: hidden;
 }
 
-.imagen8{
+.imagen16{
   /*border: 2px red solid;*/
   height: 200px;
-    background: url('../img/conduit.jpg');
+    background: url('../img/radios2.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     overflow: hidden;
 }
-.imagen9{
+.imagen17{
   /*border: 2px red solid;*/
   height: 200px;
-    background: url('../img/codo.jpg');
+    background: url('../img/dis.png');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     overflow: hidden;
 }
-.imagen10{
+.imagen18{
   /*border: 2px red solid;*/
   height: 200px;
-    background: url('../img/cople2.jpg');
+    background: url('../img/audio2.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     overflow: hidden;
 }
-.imagen11{
+.imagen19{
   /*border: 2px red solid;*/
   height: 200px;
-    background: url('../img/mufo.jpg');
+    background: url('../img/cargadores.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.imagen20{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/fundas2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen21{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/micas.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen22{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/carca4.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen23{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/alta3.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+/*-----------computacion--------------*/
+.imagen24{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/lap.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen25{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/pc.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen26{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/note.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen27{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/table2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.imagen28{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/cargadoresl.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen29{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/dis2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen30{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/tecla.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen31{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/mouse.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.imagen32{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/bocinas.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen33{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/discos.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen34{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/ram.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen35{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/procesador.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
