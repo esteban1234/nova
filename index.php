@@ -36,18 +36,18 @@
                                     <!-- Carousel items -->
                                     <div class="carousel-inner bordered">
                                         <div class="item active" data-slide-number="0">
-                                        <img src="http://placehold.it/770x300/4466e4/ffffff&text=EDV-Service">
+                                        <img src="img/01.jpg">
                                         <!-- <img src="img/uno.jpg" class="img-responsive"> -->
                                         </div>
 
                                         <div class="item" data-slide-number="1">
-                                        <img src="http://placehold.it/770x300/47A447/ffffff&text=slider two"></div>
+                                        <img src="img/02.jpg"></div>
 
                                         <div class="item" data-slide-number="2">
-                                        <img src="http://placehold.it/770x300/D2322D/ffffff&text=slider three"></div>
+                                        <img src="img/03.jpg"></div>
 
                                         <div class="item" data-slide-number="3">
-                                        <img src="http://placehold.it/770x300&text=four"></div>
+                                        <img src="img/04.jpg"></div>
                                     </div><!-- Carousel nav -->
                                     <a class="carousel-control left" data-slide="prev" href="#myCarousel">‹</a> <a class="carousel-control right" data-slide="next" href="#myCarousel">›</a>
                                 </div>
