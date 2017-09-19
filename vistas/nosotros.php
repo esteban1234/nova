@@ -1,76 +1,58 @@
 <!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 <body>
-<header>
-    <div class="menu pull-left">
-        <ul>
-            <a href="../index.php">INICIO</a>
-            <a id="select" href="nosotros.php">NOSOTROS</a>
-            <a href="servicios.php">SERVICIOS</a>
-            <a href="contacto.php">CONTACTO</a>
+
+	<header>
+        <ul class="nav pull-left">
+            <li><a href="../index.php">INICIO</a></li>
+
+            <li><a href="">SERVICIOS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                <ul>
+                    <li><a href="material.php">Material Eléctrico</a></li>
+                    <li><a href="telefonia.php">Télefonia</a></li>
+                    <li><a href="computacion.php">Computación</a></li>
+                    <li><a href="instalaciones.php">Instalaciones Eléctricas</a></li>
+                </ul>
+            </li>
+
+            <li><a id="select" href="nosotros.php">ACERCA DE</a></li>
+            <li><a href="contacto.php">CONTACTO</a></li>
         </ul>
-    </div>
 
-    <figure class="logo pull-right">
-        <img src="../img/mazeru.png" alt="" class="img-responsive">
-    </figure>
-</header>
+        <figure class="logo pull-right">
+            <img src="../img/nova.png" class="img-responsive" alt="NOVA">
+        </figure>
+    </header>
 
-<div class="contenedor">
-	<div class="fondo">
-		<div class="contieneq">
-			<h1 class="" style="border-bottom: 1px #fff solid; color: #fff; padding-bottom: 2%; margin-bottom: 3%;">Quienes somos</h1>
-			<div class="pull-left textuno">Somos una empresa dedicada a comercializar productos textiles, de computación, refacciones de automiviles y bisuteria, ofreciendo un servicio responsable y amable, para satisfacer las necesidades de nuestros clientes.
-				<br><br>
-			Somos una empresa con capital y recursos locales con proyección estatal y nacional, nuestros servicios están dirigidos a todas la areas que desean un servicio especializado.</div>
-			<div class="pull-right textdos">Buscamos consolidar nuestra posición como lideres en el mercado local y conquistaar los mercados de toda la republica mexicana, destacándonos por nuestro excelente servicio y profesionalismo.
-				<br><br>
-			Nuestro compromiso es proporcionar oportunidades de desarrollo y reconocimiento a nuestros empleados que les permitan alcanzar crecimiento personal y cada año proveer la recuperación de la inversión.</div>
-		</div>
+   <div class="container seccion3">
+   <h1>NUESTRA EMPRESA</h1>
+   <div class="container contenimgtext">
+   <figure class="imagen pull-left">
+   	
+   </figure>
 
+   <div class="texto pull-right">
+   	<div class="textouno">
+   		<h3 style="color: #B1B0B0;">Nuestra misión</h3>
+   		<p class="text-justify">Ser la empresa líder en brindar soluciones rápidas y efectivas, ofreciendo calidad y vanguardia en nuestros productos y servicios, con el respaldo de un equipo de trabajo altamente calificado y proveedores de prestigio, para crear relaciones confiables y duraderas con nuestros clientes que contribuya a alcanzar sus metas de negocio.</p>
+   	</div>
+   	<div class="textouno">
+   		<h3 style="color: #B1B0B0;">Nuestra visión</h3>
+   		<p class="text-justify">Ser la mejor opción en el mercado en ofrecer una propuesta de valor agregado  a sus clientes y lograr un incremento en la rentabilidad de nuestras operaciones, mediante: <br>
+		» La mejora continua del servicio al cliente <br>
+		» El desarrollo de nuestros colaboradores <br>
+		» La maximización de nuestra presencia en la región y la diversificación en otras industrias</p>
+   	</div>
+   	<div class="textouno">
+   		<h3 style="color: #B1B0B0;">Politica de calidad</h3>
+   		<p class="text-justify">Somos una empresa que Comercializa, Distribuye y presta Servicios de Mantención, Reparación de Equipos e Instrumentos Eléctricos y Asistencia en Terreno, en donde la satisfacción del cliente es un punto central, en nuestras operaciones habituales. <!-- Es por ello que contamos con un Sistema de Gestión de Calidad basado en el mejoramiento continuo de nuestros procesos, apoyándonos permanentemente con personal motivado y capacitado. --></p>
+   	</div>
+   </div>
+   	
+   </div>
+   	
+   </div>
 
-		<div class="contieneq">
-			<h1 class="" style="border-bottom: 1px #fff solid; color: #fff; padding-bottom: 2%; margin-bottom: 3%;">Valores</h1>
-			<div class="valoruno">
-				<div class="figura">
-					<img src="../img/reloj.png" alt="">
-				</div>
-				<div class="textvaloruno">
-					Entregamos en tiempos y forma solicitados por nuestros clientes.
-				</div>
-			</div>
-
-			<div class="valoruno">
-				<div class="figura">
-					<img src="../img/user.png" alt="">
-				</div>
-				<div class="textvaloruno">
-					Nuestros productos y servicios siempre lo hacemos con excelencia.
-				</div>
-			</div>
-
-			<div class="valoruno">
-				<div class="figura">
-					<img src="../img/medal.png" alt="">
-				</div>
-				<div class="textvaloruno">
-					Comprometidos a entregar nuestros productos y ofrecer servicios de calidad.
-				</div>
-			</div>
-
-			<div class="valoruno">
-				<div class="figura">
-					<img src="../img/checked.png" alt="">
-				</div>
-				<div class="textvaloruno">
-					La responsabilidad es nuestra herramienta para generar confianza y la credibilidad.
-				</div>
-			</div>
-		</div>
-
-		<p class="boton" style="text-align: center;"><a class="btn btn-warning btn-lg" href="contacto.php">Contáctanos</a></p>
-	</div>
-</div>
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
