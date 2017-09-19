@@ -49,19 +49,19 @@
                             <!-- Bottom Submit -->
                             <div class="relative fullwidth col-xs-12">
                                 <!-- Send Button -->
-                                <button type="submit" id="submit" name="submit" class="form-btn semibold">ENVIAR MENSAJE</button> 
+                                <button type="submit" id="submit" name="submit" class="form-btn">ENVIAR MENSAJE</button> 
                             </div><!-- End Bottom Submit -->
                             <!-- Clear -->
                             <div class="clear"></div>
                         </form>
         
                         <!-- Your Mail Message -->
-                        <div class="mail-message-area">
-                            <!-- Message -->
+                        <!-- <div class="mail-message-area">
+                            
                             <div class="alert gray-bg mail-message not-visible-message">
                                 <strong>Thank You !</strong> Your email has been delivered.
                             </div>
-                        </div>
+                        </div> -->
         
                     </div><!-- End Contact Form Area -->
                 </div><!-- End Inner --></div>

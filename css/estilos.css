@@ -250,6 +250,82 @@ footer{
 }
 /*-------------------servicios---------------*/
 
+
+/*-----------MATERIAL--------------*/
+.imagenu{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/usorudo.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen5{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/sumer.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen6{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/thw.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen7{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/cables.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.imagen8{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/conduit.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen9{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/codo.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen10{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/cople2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen11{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/mufo.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
 /*-----------------contacto-----------------*/
 .seccion4{
   padding: 3% 0% 8% 0%;
@@ -263,7 +339,7 @@ footer{
 .textc{
   text-align: center;
   font-size: 25px;
-  margin-bottom: 3%;
+  /*margin-bottom: 3%;*/
   margin-top:5%;
 }
 #contact{
@@ -332,29 +408,6 @@ footer{
     max-width: 100%;
   }
   
-/* Generic Button Styles */
-
-  .button{
-    padding:8px 12px;
-    background:#0A5175;
-    display: block;
-    width:120px;
-    margin:10px 0 0px 0;
-    border-radius:3px;
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    transition: all 0.3s;
-    text-align:center;
-    font-size:0.8em;
-    box-shadow: 0px 1px 4px rgba(0,0,0, 0.10);
-    -moz-box-shadow: 0px 1px 4px rgba(0,0,0, 0.10);
-    -webkit-box-shadow: 0px 1px 4px rgba(0,0,0, 0.10);
-  }
-
-  .button:hover{
-    background:#8BC3A3;
-    color:white;
-  }
 
 /* Send Button Styles */
 
@@ -364,7 +417,7 @@ footer{
     height: auto;
     padding:15px;
     color:#fff;
-    background:#8BC3A3;
+    background:#000;
     border:none;
     border-radius:3px;
     outline: none;
@@ -378,11 +431,11 @@ footer{
   }
 
   .form-btn:hover{
-    background:#111;
+    background:#B1B0B0;
     color: white;
     border:none;
   }
 
-  .form-btn:active{
+  /*.form-btn:active{
     opacity: 0.9;
-  }
+  }*/
