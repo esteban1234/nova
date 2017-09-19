@@ -28,36 +28,36 @@
   <div class="container">
         <div class="row">
           <div class="col-md-3 uno">
-            <div class="imagenu">
+            <div class="imagen12">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Cable Uso Rudo</h3>
+                <h3 class="text-center ">Celulares</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen5">
+            <div class="imagen13">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Cable Sumergible</h3>
+                <h3 class="text-center ">Teléfono inalambrico</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen6">
+            <div class="imagen14">
                 
             </div>
             <div class="tit">
-                <h3 class="text-center ">Cable THW</h3>
+                <h3 class="text-center ">Teléfono multilinea</h3>
             </div>
           </div>
           <div class="col-md-3 uno">
-            <div class="imagen7">
+            <div class="imagen15">
                 
             </div>
 
             <div class="tit">
-                <h3 class="text-center ">Cables</h3>
+                <h3 class="text-center ">Centrales teléfonicas digitales</h3>
             </div>
           </div>
         </div> <br><br>

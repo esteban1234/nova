@@ -326,6 +326,82 @@ footer{
     overflow: hidden;
 }
 
+/*-----------telefonia--------------*/
+.imagen12{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/cel2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen13{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/ina3.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen14{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/multi.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen15{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/central.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.imagen8{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/conduit.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen9{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/codo.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen10{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/cople2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.imagen11{
+  /*border: 2px red solid;*/
+  height: 200px;
+    background: url('../img/mufo.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+
 /*-----------------contacto-----------------*/
 .seccion4{
   padding: 3% 0% 8% 0%;
