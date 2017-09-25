@@ -29,8 +29,8 @@ $mail->isHTML(true);
 
 $mail->Subject = "Cotización NOVA";
 $mail->Body = "
-              <b>Telefono: </b>.$telefono.<br/>
-              <b>Comentario: </b>.$comentario.<br/>";
+              <b>Telefono: </b>$telefono<br/>
+              <b>Comentario: </b>$comentario<br/>";
 // $mail->AltBody = "This is the plain text version of the email content";
 
 if(!$mail->send())

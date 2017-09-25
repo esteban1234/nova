@@ -40,16 +40,16 @@
                             <!-- Left Inputs -->
                             <div class="col-xs-12 col-sm-6 col-md-6 wow animated slideInLeft" data-wow-delay=".5s">
                                 <!-- Name -->
-                                <input type="text" name="name" id="txtNOMBRE" required="required" class="form" placeholder="Nombre completo" />
+                                <input type="text" name="name" id="txtNOMBRE"  class="form" placeholder="Nombre completo" />
                                 <!-- Email -->
-                                <input type="email" name="mail" id="txtCORREO" required="required" class="form" placeholder="Correo electronico" />
+                                <input type="email" name="mail" id="txtCORREO"  class="form" placeholder="Correo electronico" />
                                 <!-- Subject -->
-                                <input type="tel" name="subject" id="txtTELEFONO" required="required" class="form" placeholder="Teléfono" />
+                                <input type="tel" name="subject" id="txtTELEFONO"  class="form" placeholder="Teléfono" />
                             </div><!-- End Left Inputs -->
                             <!-- Right Inputs -->
                             <div class="col-xs-12 col-sm-6 col-md-6 wow animated slideInRight" data-wow-delay=".5s">
                                 <!-- Message -->
-                                <textarea name="message" id="txtCOMENTARIO" class="form textarea"  placeholder="Comentario" required="required"></textarea>
+                                <textarea name="message" id="txtCOMENTARIO" class="form textarea"  placeholder="Comentario" ></textarea>
                             </div><!-- End Right Inputs -->
 
                             
