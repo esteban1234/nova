@@ -1,0 +1,642 @@
+@media screen and (max-width: 480px){
+
+	/************DISEÑO INDEX***********/
+	header{
+		text-align: center;
+	}
+
+	.nav{
+		margin: auto !important;
+		float: none !important;
+		display: none;
+		z-index: 3;
+	}
+
+	.nav li{
+		display: block;
+		width: 100%;
+	}
+
+	.nav li ul{
+		position: relative;
+		text-align: left;
+	}
+
+	.cerrar{
+		display: block !important;
+		text-align: right;
+		cursor: pointer;
+		padding: 10px 0px;
+	}
+
+	.menu-op{
+		display: block !important;
+	}
+
+
+	header .logo{
+		margin: auto;
+		float: none !important;
+		width: 35%;
+		padding: 15px 0px;
+	}
+
+	.jumbotron{
+		margin: 0px;
+	}
+	
+	#carousel-bounding-box{
+		padding: 0px;
+		height: 160px;
+	}
+
+	.carousel{
+		width: 100% !important;
+		height: 100% !important;
+	}
+
+	.carousel-inner{
+		height: 100% !important;
+		margin: 0px;
+	}
+
+	.carousel-inner > div{
+		height: 100%;
+	}
+
+	.carousel-inner > div > img{
+		height: 100% !important;
+		width: 100%;
+	}
+
+	#carousel-text{
+		display: none;
+	}
+
+	.seccion1{
+		margin: 0px !important;
+		padding: 0px;
+	}
+
+	.iconos{
+		font-size: 10px;
+	}
+
+	.tit-index{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.iconos, .tit-index{
+		display: inline-block;
+	}
+
+	.cont-index{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.p-index, .p-footer, .text-insta{
+		text-align: justify;
+	}
+
+	.h1-pd{
+		font-size: 30px;
+	}
+
+	.p-pd{
+		padding: 0px 1px;
+	}
+
+	.uno{
+		margin-bottom: 5px;
+	}
+
+	/************END DISEÑO INDEX***********/
+
+
+	/************DISEÑO NOSOTROS***************/
+	.seccion3 h1{
+		text-align: center;
+		font-size: 23px;
+		font-weight: bold;
+	}
+	
+	.imagen, .texto{
+		width: 100%;
+	}
+
+	.textouno h3{
+		text-align: center;
+		color: #000 !important;
+	}
+
+	/************END DISEÑO NOSOTROS***********/
+
+
+	/************DISEÑO CONTACTO***************/
+	.textc{
+		font-size: 20px;
+	}
+	/************END DISEÑO CONTACTO***********/
+
+
+	/************DISEÑO FOOTER***************/
+	/************END DISEÑO INDEX***********/
+
+
+	/************DISEÑO FOOTER***********/
+	.h2-footer{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.dir {
+		text-align: center;
+	}
+
+	footer{
+
+	}
+
+	.textopie{
+		width: 95%;
+		font-size: 16px;
+	}
+
+	/************END DISEÑO FOOTER***********/
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+	/************DISEÑO INDEX***********/
+	header{
+		text-align: center;
+	}
+
+	.nav{
+		margin: auto !important;
+		float: none !important;
+		display: none;
+		z-index: 3;
+	}
+
+	.nav li{
+		display: block;
+		width: 100%;
+	}
+
+	.nav li ul{
+		position: relative;
+		text-align: left;
+	}
+
+
+	.menu-op{
+		display: block !important;
+	}
+
+	.cerrar{
+		display: block !important;
+		text-align: right;
+		cursor: pointer;
+		padding: 10px 0px;
+	}
+
+
+	header .logo{
+		margin: auto;
+		float: none !important;
+		width: 25%;
+		padding: 15px 0px;
+	}
+
+	.jumbotron{
+		margin: 0px;
+	}
+
+	.imagen1, .imagen2, .imagen3, .imagen4, 
+	.imagen5, .imagen6, .imagen7, .imagen8, 
+	.imagen9, .imagen10, .imagen11, 
+	.imagen12, .imagen13, .imagen14,.imagen15,
+	.imagen16, .imagen17, .imagen18,
+	.imagen19, .imagen20, .imagen21,
+	.imagen22, .imagen23, .imagen24, 
+	.imagen25, .imagen26, .imagen27, 
+	.imagen28, .imagen29,.imagen30, 
+	.imagen31, .imagen32, .imagen33, .imagen34, .imagen35, .imagenu{
+    	height: 300px;
+    	background-size: 90% 100%;
+	}
+
+	.tit{
+		width: 90%;
+		margin: 0px auto;
+	}
+	
+	#carousel-bounding-box{
+		padding: 0px;
+		height: 220px;
+	}
+
+	.carousel{
+		width: 100% !important;
+		height: 100% !important;
+	}
+
+	.carousel-inner{
+		height: 100% !important;
+		margin: 0px;
+	}
+
+	.carousel-inner > div{
+		height: 100%;
+	}
+
+	.carousel-inner > div > img{
+		height: 100% !important;
+		width: 100%;
+	}
+
+	#carousel-text{
+		display: none;
+	}
+
+	.seccion1{
+		margin: 0px !important;
+		padding: 0px;
+	}
+
+	.iconos{
+		font-size: 10px;
+	}
+
+	.tit-index{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.iconos, .tit-index{
+		display: inline-block;
+	}
+
+	.cont-index{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.p-index, .p-footer, .text-insta{
+		text-align: justify;
+	}
+
+	.h1-pd{
+		font-size: 30px;
+	}
+
+	.p-pd{
+		padding: 0px 1px;
+	}
+
+	.uno{
+		margin-bottom: 5px;
+	}
+
+	/************END DISEÑO INDEX***********/
+
+
+	/************DISEÑO NOSOTROS***************/
+	.seccion3 h1{
+		text-align: center;
+		font-size: 23px;
+		font-weight: bold;
+	}
+	
+	.imagen, .texto{
+		width: 100%;
+	}
+
+	.textouno h3{
+		text-align: center;
+		color: #000 !important;
+	}
+
+	/************END DISEÑO NOSOTROS***********/
+
+
+	/************DISEÑO CONTACTO***************/
+	.textc{
+		font-size: 20px;
+	}
+	/************END DISEÑO CONTACTO***********/
+
+
+	/************DISEÑO FOOTER***************/
+	/************END DISEÑO INDEX***********/
+
+
+	/************DISEÑO FOOTER***********/
+	.h2-footer{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.dir {
+		text-align: center;
+	}
+
+	footer{
+
+	}
+
+	.textopie{
+		width: 95%;
+		font-size: 16px;
+	}
+
+	/************END DISEÑO FOOTER***********/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+		/************DISEÑO INDEX***********/
+	header{
+		text-align: center;
+	}
+
+	.nav{
+		margin: auto !important;
+		float: none !important;
+		display: none;
+		z-index: 3;
+	}
+
+	.nav li{
+		display: block;
+		width: 100%;
+	}
+
+	.nav li ul{
+		position: relative;
+		text-align: left;
+	}
+
+
+	.menu-op{
+		display: block !important;
+	}
+
+	.cerrar{
+		display: block !important;
+		text-align: right;
+		cursor: pointer;
+		padding: 10px 0px;
+	}
+
+
+	header .logo{
+		margin: auto;
+		float: none !important;
+		width: 25%;
+		padding: 15px 0px;
+	}
+
+	.jumbotron{
+		margin: 0px;
+	}
+
+
+
+	/*.imagen1, .imagen2, .imagen3, .imagen4, 
+	.imagen5, .imagen6, .imagen7, .imagen8, 
+	.imagen9, .imagen10, .imagen11, 
+	.imagen12, .imagen13, .imagen14,.imagen15,
+	.imagen16, .imagen17, .imagen18,
+	.imagen19, .imagen20, .imagen21,
+	.imagen22, .imagen23, .imagen24, 
+	.imagen25, .imagen26, .imagen27, 
+	.imagen28, .imagen29,.imagen30, 
+	.imagen31, .imagen32, .imagen33, .imagen34, .imagen35, .imagenu{
+    	height: 300px;
+    	background-size: 90% 100%;
+	}*/
+
+	/*.tit{
+		width: 90%;
+		margin: 0px auto;
+	}*/
+	
+	#carousel-bounding-box{
+		padding: 0px;
+		height: 220px;
+	}
+
+	.carousel{
+		width: 100% !important;
+		height: 100% !important;
+	}
+
+	.carousel-inner{
+		height: 100% !important;
+		margin: 0px;
+	}
+
+	.carousel-inner > div{
+		height: 100%;
+	}
+
+	.carousel-inner > div > img{
+		height: 100% !important;
+		width: 100%;
+	}
+
+	#carousel-text{
+		/*display: none;*/
+	}
+
+	#slide-content{
+		padding: 0px !important;
+		margin: 0px !important;
+	}
+
+	#slide-content-0, #slide-content-1, #slide-content-2, #slide-content-3{
+		border: 2px solid red !important;
+	}
+
+	.seccion1{
+		margin: 0px !important;
+		padding: 0px;
+	}
+
+	.iconos{
+		font-size: 10px;
+	}
+
+	.tit-index{
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.iconos, .tit-index{
+		display: inline-block;
+	}
+
+	.cont-index{
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.p-index, .p-footer, .text-insta{
+		text-align: justify;
+	}
+
+	.h1-pd{
+		font-size: 30px;
+	}
+
+	.p-pd{
+		padding: 0px 1px;
+	}
+
+	.uno{
+		margin-bottom: 5px;
+		/*border: 2px solid red;*/
+		width: 48%;
+		float: none !important; 
+		display: inline-block;
+	}
+
+	.centrar-uno{
+		text-align: center;
+	}
+
+	/************END DISEÑO INDEX***********/
+
+
+	/************DISEÑO NOSOTROS***************/
+	.seccion3 h1{
+		text-align: center;
+		font-size: 23px;
+		font-weight: bold;
+	}
+	
+	.imagen, .texto{
+		width: 100%;
+	}
+
+	.textouno h3{
+		text-align: center;
+		color: #000 !important;
+	}
+
+	/************END DISEÑO NOSOTROS***********/
+
+
+	/************DISEÑO CONTACTO***************/
+	.textc{
+		font-size: 20px;
+	}
+	/************END DISEÑO CONTACTO***********/
+
+
+	/************DISEÑO FOOTER***************/
+	/************END DISEÑO INDEX***********/
+
+
+	/************DISEÑO FOOTER***********/
+	.h2-footer{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.dir {
+		text-align: center;
+	}
+
+	footer{
+
+	}
+
+	.textopie{
+		width: 95%;
+		font-size: 16px;
+	}
+
+	/************END DISEÑO FOOTER***********/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+	/*#carousel-text{
+		display: none;
+	}*/
+
+	#carousel-bounding-box{
+		padding: 0px;
+		height: 220px;
+	}
+
+	.carousel{
+		width: 100% !important;
+		height: 100% !important;
+	}
+
+	.carousel-inner{
+		height: 100% !important;
+		margin: 0px;
+	}
+
+	.carousel-inner > div{
+		height: 100%;
+	}
+
+	.carousel-inner > div > img{
+		height: 100% !important;
+		width: 100%;
+	}
+
+	#carousel-text{
+		/*display: none;*/
+	}
+
+	#slide-content{
+		padding: 0px !important;
+		margin: 0px !important;
+	}
+
+	#slide-content-0, #slide-content-1, #slide-content-2, #slide-content-3{
+		border: 2px solid red !important;
+	}
+
+	.imagen1, .imagen2, .imagen3, .imagen4, 
+	.imagen5, .imagen6, .imagen7, .imagen8, 
+	.imagen9, .imagen10, .imagen11, 
+	.imagen12, .imagen13, .imagen14,.imagen15,
+	.imagen16, .imagen17, .imagen18,
+	.imagen19, .imagen20, .imagen21,
+	.imagen22, .imagen23, .imagen24, 
+	.imagen25, .imagen26, .imagen27, 
+	.imagen28, .imagen29,.imagen30, 
+	.imagen31, .imagen32, .imagen33, .imagen34, .imagen35, .imagenu{
+    	background-size: 90% 100%;
+	}
+
+	.tit{
+		width: 90%;
+		margin: 0px auto;
+	}
+
+	.uno{
+		margin-bottom: 5px;
+		width: 48%;
+		float: none !important; 
+		display: inline-block;
+	}
+
+	.centrar-uno{
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

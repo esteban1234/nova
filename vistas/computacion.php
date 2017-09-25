@@ -3,6 +3,7 @@
 <body>
 <header>
         <ul class="nav pull-left">
+        <li class="cerrar">Cerrar</li>
             <li><a href="../index.php">INICIO</a></li>
 
             <li><a id="select" href="">SERVICIOS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
@@ -21,6 +22,10 @@
         <figure class="logo pull-right">
             <img src="../img/nova.png" class="img-responsive" alt="NOVA">
         </figure>
+
+        <div class="menu-op">
+          <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+        </div>
     </header>
 <div class="seccion4">
   <p class="textc">Comercio de equipo y accesorios de cómputo</p>
@@ -145,5 +150,6 @@
 <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/botonarriba.js"></script>
+<script src="../js/menu.js"></script>
 </body>
 </html>

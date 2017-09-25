@@ -3,6 +3,7 @@
 <body>
 <header>
         <ul class="nav pull-left">
+        <li class="cerrar">Cerrar</li>
             <li><a href="../index.php">INICIO</a></li>
 
             <li><a id="select" href="">SERVICIOS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
@@ -21,12 +22,16 @@
         <figure class="logo pull-right">
             <img src="../img/nova.png" class="img-responsive" alt="NOVA">
         </figure>
+
+        <div class="menu-op">
+          <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+        </div>
     </header>
 <div class="seccion4">
   <p class="textc">Comercio de teléfonos, refaccciones y accesorios</p>
   <p class="text-center">Contamos con una gran variedad de productos, acontinuación se muestran algunos.</p> <br><br>
   <div class="container">
-        <div class="row">
+        <div class="row centrar-uno">
           <div class="col-md-3 uno">
             <div class="imagen12">
                 
@@ -145,5 +150,6 @@
 <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/botonarriba.js"></script>
+<script src="../js/menu.js"></script>
 </body>
 </html>

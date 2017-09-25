@@ -3,6 +3,7 @@
 <body>
     <header>
         <ul class="nav pull-left">
+            <li class="cerrar">Cerrar</li>
             <li><a id="select" href="index.php">INICIO</a></li>
 
             <li><a href="">SERVICIOS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
@@ -21,6 +22,10 @@
         <figure class="logo pull-right">
             <img src="img/nova.png" class="img-responsive" alt="NOVA">
         </figure>
+
+        <div class="menu-op">
+          <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+        </div>
     </header>
 
     <div class="jumbotron bordered">
@@ -31,7 +36,7 @@
                     <div class="col-sm-12" id="slider">
                         <!-- Top part of the slider -->
                         <div class="row">
-                            <div class="col-sm-8" id="carousel-bounding-box">
+                            <div class="col-sm-7 col-md-8" id="carousel-bounding-box">
                                 <div class="carousel slide" id="myCarousel" data-ride="carousel">
                                     <!-- Carousel items -->
                                     <div class="carousel-inner bordered">
@@ -53,7 +58,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-sm-4" id="carousel-text"></div>
+                            <div class="col-sm-5 col-md-4" id="carousel-text"></div>
 
                             <div id="slide-content" style="display: none;">
                                 <div id="slide-content-0">
@@ -84,54 +89,54 @@
                             </div>
                         </div>
                     </div>
-                </div><!--/Slider-->
+                </div>
 
         </div>
 </div>
 </div>
 
 <div class="section seccion1">
-      <div class="container">
+    <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 cont-index">
             <div class="iconos">
                 <span class="fa-stack fa-5x icono">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-users fa-stack-1x"></i>
                 </span>
             </div>
-            <h2 class="text-center text-muted">EXPERIENCIA</h2>
-            <p class="text-center">Desde hace ya muchos años prestando Servicios Eléctricos a las Empresas y representando las Mejores Marcas del Mundo participando en el mercado.</p>
+            <h2 class="text-center text-muted tit-index">EXPERIENCIA</h2>
+            <p class="text-center p-index">Desde hace ya muchos años prestando Servicios Eléctricos a las Empresas y representando las Mejores Marcas del Mundo participando en el mercado.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 cont-index">
             <div class="iconos">
                 <span class="fa-stack fa-5x icono">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-truck fa-stack-1x"></i>
                 </span>
             </div>
-            <h2 class="text-center text-muted">MERCADOS</h2>
-            <p class="text-center">Nuestros productos y servicios abaracan una amplica variedad de mercados como Minería, Generación, Distribución, Transmisión, Empresas de Ingeniería, Contratistas, Petrolera, etc.</p>
+            <h2 class="text-center text-muted tit-index">MERCADOS</h2>
+            <p class="text-center p-index">Nuestros productos y servicios abaracan una amplica variedad de mercados como Minería, Generación, Distribución, Transmisión, Empresas de Ingeniería, Contratistas, Petrolera, etc.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 cont-index">
             <div class="iconos">
                 <span class="fa-stack fa-5x icono">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-cubes fa-stack-1x"></i>
                 </span>
             </div>
-            <h2 class="text-center text-muted">PRODUCTOS</h2>
-            <p class="text-center">Junto a nuestra amplia gama de productos, entregamos servicios que cumplen con los más altos estándares de calidad.</p>
+            <h2 class="text-center text-muted tit-index">PRODUCTOS</h2>
+            <p class="text-center p-index">Junto a nuestra amplia gama de productos, entregamos servicios que cumplen con los más altos estándares de calidad.</p>
+          </div>
         </div>
-      </div>
     </div>
-    </div>
+</div>
 
     <div class="section seccion2">
       <div class="container">
-        <div class="row">
-        <h1 class="text-center" style="color: #fff; font-family: 'Oleo Script', cursive;">Productos destacados</h1>
-        <p class="text-center" style="color: #fff; font-family: 'Cambay', sans-serif;">de nuestra amplia gama de productos de ámbito eléctrico</p> <br><br>
+        <div class="row centrar-uno">
+        <h1 class="text-center h1-pd" style="color: #fff; font-family: 'Oleo Script', cursive;">Productos destacados</h1>
+        <p class="text-center p-pd" style="color: #fff; font-family: 'Cambay', sans-serif;">de nuestra amplia gama de productos de ámbito eléctrico</p> <br><br>
           <div class="col-md-3 uno">
             <div class="imagen1">
                 
@@ -178,5 +183,6 @@
 <script src="js/bootstrap.js"></script>
 <script src="js/slide.js"></script>
 <script src="js/botonarriba.js"></script>
+<script src="js/menu.js"></script>
 </body>
 </html>

@@ -11,6 +11,11 @@ header{
   /*background-color:  #f0f3f4;*/
   border-top: 5px #000 solid;
 }
+
+.cerrar, .menu-op{
+  display: none !important;
+}
+
 .nav{
   /*border: 2px red solid;*/
   margin-top: 5%;
@@ -115,7 +120,7 @@ ul, ol{
 
 .imagen1{
   /*border: 2px red solid;*/
-  height: 200px;
+    height: 200px;
     background: url('../img/conductores.jpg');
     background-size: cover;
     background-position: center center;
