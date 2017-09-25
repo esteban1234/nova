@@ -1,18 +1,11 @@
 $(document).ready(function(){
+// if($(window).width() <= 799){
 
     var pull = $('.menu-op');
+    contador = 1;
     menu = $('.nav');
-
-    // $(window).scroll(function(){
-    //     if($(this).scrollTop() > 5){
-    //         menu.css({
-    //             'position': 'fixed'
-    //         });
-
-           
-    //     }
-       
-    // });
+    menuop = $('.serv-menu');
+    navul = $('.nav li ul');
 
     $(function() {
                 abrir = $('.abrir');
@@ -31,6 +24,18 @@ $(document).ready(function(){
                  $(cerrar).on('click', function() {
                      menu.slideToggle(1000);
                 });
+
+                $(menuop).on('click', function(e) {
+                    e.preventDefault();
+                if (contador == 1) {
+                   navul.slideToggle(1000);
+                    contador = 0;
+                } else {
+                    navul.slideToggle(1000);
+                    contador = 1;
+                 }
+    });
             });
+// }
 
 });

@@ -7,8 +7,8 @@
         <li class="cerrar">Cerrar</li>
             <li><a href="../index.php">INICIO</a></li>
 
-            <li><a href="">SERVICIOS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                <ul>
+            <li><a class="serv-menu" href="">SERVICIOS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                <ul class="desgloza">
                     <li><a href="material.php">Material Eléctrico</a></li>
                     <li><a href="telefonia.php">Télefonia</a></li>
                     <li><a href="computacion.php">Computación</a></li>

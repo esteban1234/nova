@@ -22,6 +22,11 @@
 		text-align: left;
 	}
 
+	.nav li:hover > ul{
+	  display: none;
+	  z-index: 100;
+	}
+
 	.cerrar{
 		display: block !important;
 		text-align: right;
@@ -189,6 +194,11 @@
 	.nav li ul{
 		position: relative;
 		text-align: left;
+	}
+
+	.nav li:hover > ul{
+	  display: none;
+	  z-index: 100;
 	}
 
 
@@ -377,6 +387,11 @@
 	.nav li ul{
 		position: relative;
 		text-align: left;
+	}
+
+	.nav li:hover > ul{
+	  display: none;
+	  z-index: 100;
 	}
 
 

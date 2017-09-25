@@ -6,8 +6,8 @@
             <li class="cerrar">Cerrar</li>
             <li><a id="select" href="index.php">INICIO</a></li>
 
-            <li><a href="">SERVICIOS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                <ul>
+            <li><a class="serv-menu" href="">SERVICIOS <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                <ul class="desgloza">
                     <li><a href="vistas/material.php">Material Eléctrico</a></li>
                     <li><a href="vistas/telefonia.php">Télefonia</a></li>
                     <li><a href="vistas/computacion.php">Computación</a></li>
